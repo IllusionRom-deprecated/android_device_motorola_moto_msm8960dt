@@ -1,6 +1,6 @@
 [
   {
-    "remote"       "gh",
+    "remote":       "gh",
     "repository":  "CyanogenMod/android_device_qcom_common",
     "target_path": "device/qcom/common",
     "revision":    "cm-11.0"
@@ -10,7 +10,7 @@
     "target_path": "device/motorola/qcom-common"
   },
   {
-    "remote"       "gh",
+    "remote":       "gh",
     "repository":  "CyanogenMod/android_kernel_motorola_msm8960dt-common",
     "target_path": "kernel/motorola/msm8960dt-common",
     "revision":    "cm-11.0"
